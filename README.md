@@ -1,0 +1,2 @@
+I've done 1, 2, 5, 6 for this test, but I'm not pretty sure whether I understand the questions right. So here are some of the screenshots of the results.
+![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
